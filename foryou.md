@@ -2,7 +2,7 @@
 <IMG SRC="img/2012-4-7-poster-hk.jpg" width=880><br>
 <IMG SRC="img/2008_2_20_20080220_3t6.jpg" width=880><br>
 <IMG SRC="img/gdsm.jpg" width=880><br>
-  
+<IMG SRC="img/sun-ip-0123.jpg" width=880><br>  
 <a href="https://github.com/bcdz/true01/issues"><b>了解更多，點 Issues → New issue 可留言</b></a>
 
 <hr>
