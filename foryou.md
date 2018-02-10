@@ -143,7 +143,7 @@
 
 真相小花
 ■ 真相小花（http://zx.lemna.men）提供最真实、及时的真相视频、音频和电子书
-■ 突破网络封锁访问真相部落，请访问 https://git.io/goal。 这个链接国内不屏蔽，请妥为收藏，页面有真相部落及时IP，也可以下载所有最新版翻墙软件，如自由门、无界、爱博、iNTD等
+■ 突破网络封锁访问真相部落，请访问 <a href=https://git.io/goal">https://git.io/goal</a> 这个链接国内不屏蔽，请妥为收藏，页面有真相部落及时IP，也可以下载所有最新版翻墙软件，如自由门、无界、爱博、iNTD等
 
 <IMG SRC="img/811271903211950-600x400.gif" width=880><br>
 <IMG SRC="img/2012-4-7-poster-hk.jpg" width=880><br>
