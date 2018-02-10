@@ -9,7 +9,10 @@
 <div align="center">大纪元<br>
 2005年1月12日</div></h1>
 
-<a href="https://github.com/bcdz/true01/issues"><b>了解更多，點 Issues → New issue 可留言</b></a>
+<a href="https://git.io/01><b>了解更多真相</b></a>
+<a href="https://github.com/bcdz/true01/issues"><b>点 Issues → New issue 可留言三退或用翻墙软件自己办理三退</b></a>
+<a href="https://github.com/3fmd/gm/blob/master/ffq.md"><b>免費翻墙軟件</b></a>
+<a href="https://github.com/3fmd/gm/blob/master/epub.md"><b>手机上好看的电子书（ePub版）</b></a>
 
 <hr>
 
