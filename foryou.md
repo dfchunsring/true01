@@ -1,4 +1,4 @@
-<img src="img/lian-blue-0226.jpg">
+<img src="img/lian-blue-0302.jpg">
 
 <h1 align="center"><b>大纪元郑重声明</b></h1>
 
