@@ -19,7 +19,7 @@
 
 <a href="http://git.io/3f"><b>手机上好看的电子书（ePub版）</b></a>
 
-<a href="http://git.io/3f"><b>香港游行，陆客受访感到震撼、震惊、不可思议... (视频mp4)</b></a>
+<a href="https://github.com/bcdz/true01/blob/master/mp4/unbelieve.mp4?raw=true"><b>香港游行，陆客受访感到震撼、震惊、不可思议... (视频mp4)</b></a>
 
 <a href="https://github.com/bcdz/true01/issues"><b>点 Issues → New issue 可留言三退或用翻墙软件自己办理三退</b></a>
 
