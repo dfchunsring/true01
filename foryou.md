@@ -1,4 +1,6 @@
-<div align="center"><img src="img-2/0524-2.jpg"></div>
+<div align="center"><img src="img-2/0528.jpg"></div>
+
+<a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
 <h1 align="center"><b>大纪元郑重声明</b></h1>
 
