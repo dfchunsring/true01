@@ -1,5 +1,5 @@
 <div align="center"><!-- <IMG SRC="img-2/logo-0721.jpg" width=640><br> -->
-<IMG SRC="img-2/09122.jpg" width=640></div><br>
+<IMG SRC="img-2/09166.jpg" width=640></div><br>
 
 <a href=https://git.io/01><h6 align="right">回首頁</h6></a>
 
@@ -17,6 +17,8 @@
 <hr>
 
 <a href="https://git.io/01"><b>了解更多真相</b></a>
+
+<a href="https://git.io/zxtk1"><b>澄清谎言与疑问</b></a>
 
 <a href="http://git.io/ffq"><b>免费突破封锁翻墙软件</b></a>
 
