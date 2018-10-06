@@ -2,21 +2,33 @@
 <IMG SRC="img/222a12.jpg" width=880></div><br>
 
 <div align="center">
-<IMG SRC="img/as12.PNG" width=880></div><br>
+<IMG SRC="img/as12.PNG" width=880></div>
 
 
 <a href=https://git.io/01><h5 align="right">回首頁</h5></a>
-<a href="https://git.io/01"><b>了解更多真相</b></a>
 
-<a href="https://git.io/zxtk1"><b>澄清谎言与疑问</b></a>
+<table>
+  <tr>
+  <td><a href="https://git.io/01"><h4>了解更多真相</h4></a></td></tr>
 
-<a href="http://git.io/ffq"><b>免费突破封锁翻墙软件</b></a>
+ <tr>
+  <td><a href="https://git.io/zxtk1"><h4>澄清谎言与疑问</h4></a></td></tr>
 
-<a href="http://git.io/3f"><b>手机上好看的电子书（ePub版）</b></a>
+<tr>
+  <td><a href="http://git.io/ffq"><h4>免费突破封锁翻墙软件</h4></a></td></tr>
 
-<a href="https://github.com/bcdz/true01/blob/master/mp4/unbelieve.mp4?raw=true"><b>香港游行，陆客受访感到震撼、震惊、不可思议... (视频mp4)</b></a>
+<tr>
+  <td><a href="http://git.io/3f"><h4>手机上好看的电子书（ePub版）</h4></a></td></tr>
 
-<a href="https://github.com/bcdz/true01/issues"><b>点 Issues → New issue 可留言三退或用翻墙软件自己办理三退</b></a>
+<tr>
+  <td>
+<a href="https://github.com/bcdz/true01/blob/master/mp4/unbelieve.mp4?raw=true"><h4>香港游行，陆客受访感到震撼、震惊、不可思议... (视频mp4)</h4></a></td></tr>
+
+<tr>
+  <td>
+<a href="https://github.com/bcdz/true01/issues"><h4>点 Issues → New issue 可留言三退或用翻墙软件自己办理三退</h4></a></td></tr>
+</table>
+
 
 <table>
   <tr>
