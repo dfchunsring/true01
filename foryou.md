@@ -101,9 +101,9 @@
 你可以拨打退党电话，电话号码是 001-416-361-9895，或者是电话号码 001-888-892-8757。接通后如您听到：“这是空号，请不要打这个电话。” 时，请不要挂电话，很快就能接通，请大家相互转告。
 请您记住“法轮大法好，真善忍好”！
 
-<a href="https://git.io/whytd">请下载 : 为什么要三退 epub 电子书</a>
+<a href="https://git.io/whytd">请下载 : 为什么要三退 epub 电子书</a><br>
 
-<hr>
+<div align="center"><IMG SRC="img/2018-4-23-mh-10.jpg" width=680>   </div>
 
 <h2 align="center"><a href="https://git.io/zxtk1"><b>修炼法轮功是合法的</a></b></h2>
 
