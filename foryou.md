@@ -102,7 +102,7 @@
 请您记住“法轮大法好，真善忍好”！
 
 <a href="https://git.io/whytd">请下载 : 为什么要三退 epub 电子书</a><br>
-
+<hr>
 <div align="center"><IMG SRC="img/2018-4-23-mh-10.jpg" width=680>   </div>
 
 <h2 align="center"><a href="https://git.io/zxtk1"><b>修炼法轮功是合法的</a></b></h2>
