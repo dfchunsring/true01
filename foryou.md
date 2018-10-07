@@ -1,5 +1,5 @@
 <div align="center">
-<IMG SRC="img/222a1007.jpg" width=880></div><br>
+<IMG SRC="img/222a1007.jpg" width=880>
 http://36.227.98.164</div><br>
   
 <div align="center">
