@@ -6,7 +6,7 @@
   
   <table>
   <tr>
-   <td>
+   <td width=880>
      
    <div align="center">
 <IMG SRC="img/kk12.png" ></div>
