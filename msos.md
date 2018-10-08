@@ -4,10 +4,16 @@
 <h3 align=center>翻墙必看 视频 http://36.227.98.164 </h3>
   </p>
   
-  <div align="center">
+  <table>
+  <tr>
+   <td>
+     
+   <div align="center">
 <IMG SRC="img/kk12.png" ></div>
- 
- 
+   
+   </td>
+      </tr>
+  </table>
   
   
   
