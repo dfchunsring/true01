@@ -5,7 +5,7 @@
   </p>
   
   <div align="center">
-<IMG SRC="img/b_illust_84_0L.png" width=680></div>
+<IMG SRC="img/b_illust_84_0L.png" ></div>
   <table>
   <tr>
    <td>
