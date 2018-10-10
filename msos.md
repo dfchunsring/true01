@@ -4,7 +4,7 @@
 <h3 align=center>翻墙必看 视频 http://36.227.98.164 </h3>
   </p>
    <div align="center">
-<IMG SRC="img/09595353.png" ></div>
+<IMG SRC="img/09595353.png"width=880 ></div>
  </p>
   <table>
   <tr>
@@ -17,7 +17,7 @@
   </p>
  
  <div align="center">
-<IMG SRC="img/92p58PICwi8.png" ></div>
+<IMG SRC="img/92p58PICwi8.png" width=880></div>
  </p>
   
   
