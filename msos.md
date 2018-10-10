@@ -6,14 +6,10 @@
    <div align="center">
 <IMG SRC="img/09595353.png"width=880 ></div>
  </p>
-  <table>
-  <tr>
-   <td width=880>
-        <div align="center">
-<IMG SRC="img/kk122.png" width=680></div>
-      </td>
-      </tr>
-  </table>
+  
+  <div align="center">
+<IMG SRC="img/kk122-0.png" width=880></div>
+     
   </p>
  
  <div align="center">
