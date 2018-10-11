@@ -5,7 +5,7 @@
  </p>
 <div align="center">
 <IMG SRC="img/b_illust_24_0M.png" width=880></div> 
- 
+  </p>
  <a name=list><b>目錄</b></p>
  <table><tr><td width=640>
  <a href=#1>中国人欧洲之旅 所见所闻所行</a></td>
@@ -15,7 +15,7 @@
  </table>
  
  <div align="center">
-<IMG SRC="img/b_illust_24_0M.png" width=880></div> 
+<IMG SRC="img/b_ornament_68_0M.png" width=880></div> 
  
  <a name=1><h2 align="center"><b>中国人欧洲之旅 所见所闻所行</b></h2>
  <div align="center">
