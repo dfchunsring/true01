@@ -144,7 +144,7 @@
 <div align="center">让录像说话：自-焚者刘春玲是被警察用灭火器打死的--自-焚伪案疑点-女主角被当场灭口</div>
  </p>
 
-<a href="https://github.com/bcdz/true01/blob/master/video/20170123_000925-video.mp4?raw=true"> “天安门真相” 影片下载</a>
+<a href="https://github.com/bcdz/true01/blob/master/mp4/20170123_000925-video.mp4?raw=true"> “天安门真相” 影片下载</a>
 
  身边的女儿一个劲叫父亲走，父亲没搭理她，继续听真相。</p>
 陈女士告诉他，法轮功学员就是要告诉中国人真相，不上中共的当，并劝他赶快“三退”，为自己选择美好的未来。
@@ -166,7 +166,7 @@
 梅阿姨说：“2002年6月，在贵州省平塘掌布乡发现一块巨石，石壁上凸显一排字迹，可清晰地辨识有6个大字‘中国共产党亡’。这便是震惊世界的2.7亿岁的‘藏字石’。”
  </p>
  <div align="center">
-<IMG SRC="img/141690884_s.jpg" width=680></div>
+<IMG SRC="img/141690884_s.jpeg" width=680></div>
 <div align="center">显现6个大字“中国共产党亡”的藏字石。（网络图片）</div>
  </p>
 
