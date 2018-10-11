@@ -144,7 +144,7 @@
 <div align="center">让录像说话：自-焚者刘春玲是被警察用灭火器打死的--自-焚伪案疑点-女主角被当场灭口</div>
  </p>
 
-https://github.com/bcdz/true01/blob/master/mp4/pc.wmv“天安门真相” 影片下载
+<a href="https://github.com/bcdz/true01/blob/master/video/20170123_000925-video.mp4?raw=true"> “天安门真相” 影片下载</a>
 
  身边的女儿一个劲叫父亲走，父亲没搭理她，继续听真相。</p>
 陈女士告诉他，法轮功学员就是要告诉中国人真相，不上中共的当，并劝他赶快“三退”，为自己选择美好的未来。
