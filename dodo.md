@@ -15,7 +15,7 @@
  
  <a name=1><h2 align="center"><b>中国人欧洲之旅 所见所闻所行</b></h2>
  <div align="center">
-<IMG SRC="img/f8aab9b.jpg" width=880></div>
+<IMG SRC="img/f8aab9b.jpg" width=680></div>
   <div align="center"> 在法兰克福保罗广场中国游客阅读法轮功真相展板。（法轮功学员提供） </div>
   </p>
  
@@ -144,7 +144,7 @@
 <div align="center">让录像说话：自-焚者刘春玲是被警察用灭火器打死的--自-焚伪案疑点-女主角被当场灭口</div>
  </p>
 
-“天安门真相” 影片下载
+https://github.com/bcdz/true01/blob/master/mp4/pc.wmv“天安门真相” 影片下载
 
  身边的女儿一个劲叫父亲走，父亲没搭理她，继续听真相。</p>
 陈女士告诉他，法轮功学员就是要告诉中国人真相，不上中共的当，并劝他赶快“三退”，为自己选择美好的未来。
