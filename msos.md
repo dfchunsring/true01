@@ -7,11 +7,9 @@
 <IMG SRC="img/09595353.png"width=880 ></div>
  </p>
   
-  
-  
- <div align="center">
-<IMG SRC="img/img8086fb9b34e9.jpg" width=880></div>
- </p>  
+  <div align="center">
+<IMG SRC="img/16213929.png" width=880></div>
+ </p>
   
   <div align="center">
 <IMG SRC="img/kk122-0.png" width=880></div>
@@ -67,8 +65,8 @@
 至2018 年3 月，声明“三退”的中国人超过3 亿 <br/>
   据退党网站记录显示，目前每天约有10 万中国人声明“三退”。
   <div align="center">
-<IMG SRC="img/16213929.png" width=880></div>
- </p>
+<IMG SRC="img/img8086fb9b34e9.jpg" width=880></div>
+ </p>   
 </td>
 </tr>
 </table>
