@@ -19,13 +19,13 @@
  </tr>
  
   <tr><td width=640>
- <a href=#3>瑞士卢塞恩景点　中国游客踊跃“三退”（图）</a></td>
+ <a href=#3>瑞士卢塞恩景点　中国游客踊跃“三退”</a></td>
   <td width=240><a href=#3>明慧网</a></td>
  </tr>
  
   <tr><td width=640>
  <a href=#4>三亿人退出中共组织 大陆民众出国三退</a></td>
-  <td width=240><a href=#4>明慧网</a></td>
+  <td width=240><a href=#4>大紀元新聞</a></td>
  </tr>
  
  
