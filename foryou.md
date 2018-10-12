@@ -3,13 +3,13 @@
 <h3 align=center>翻墙必看 视频 http://61.228.116.242</h3><br>
   
 <div align="center">
-<a href="https://git.io/mssos"><IMG SRC="img/as12.PNG" width=880></a></div>
-
+<a href="https://git.io/mssos"><IMG SRC="img/1-126.jpg" width=780></a></div>
+</p>
 <div align="center">
   <a href="https://git.io/zbdodo"><IMG SRC="img/b963a40a4bd2.jpg" width=780></a></div>
+</p>
 
 
-<a href=https://git.io/01><h5 align="right">回首頁</h5></a>
 
 <table>
   <tr>
