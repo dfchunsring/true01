@@ -19,7 +19,7 @@
  </tr>
  
   <tr><td width=640>
- <a href=#3>中国人欧洲之旅 所见所闻所行</a></td>
+ <a href=#3>瑞士卢塞恩景点　中国游客踊跃“三退”（图）</a></td>
   <td width=240><a href=#3>明慧网</a></td>
  </tr>
  
@@ -30,7 +30,7 @@
 <IMG SRC="img/b_ornament_68_0M.png" width=800></div> 
  
  
- <a name=#3><h2 align="center"><b> 瑞士卢塞恩景点　中国游客踊跃“三退”（图） </b></h2>
+ <a name=3><h2 align="center"><b> 瑞士卢塞恩景点　中国游客踊跃“三退”（图） </b></h2>
  
  【明慧网二零一八年十月十日】二零一八年十月六日，欧洲天国乐团首次到访瑞士的卢塞恩景点，为来自世界各地的游客带来法轮大法的美好。</p>
  <div align="center">
@@ -57,7 +57,7 @@
  <div align="center">
 <IMG SRC="img/b_ornament_68_0M.png" width=800></div> 
  
- <a name=#2><h2 align="center"><b> 海外“风景点”中共国安国保610警察三退 </b></h2>
+ <a name=2><h2 align="center"><b> 海外“风景点”中共国安国保610警察三退 </b></h2>
  <div align="center">
 <IMG SRC="img/paris-ss.jpg" width=680></div>
   <div align="center"> 大陆游客在世界各地的著名旅游景点可以听闻法轮功真相。图为法国埃菲尔铁塔（大纪元） </div>
