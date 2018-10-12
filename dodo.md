@@ -9,8 +9,8 @@
  <a name=list><b>目錄</b></p>
  <table>
  <tr><td width=640>
- <a href=#◆>◆海外“风景点”中共国安国保610警察三退</a></td>
-  <td width=240><a href=#◆>大紀元新聞</a></td>
+ <a href=#2>◆海外“风景点”中共国安国保610警察三退</a></td>
+  <td width=240><a href=#2>大紀元新聞</a></td>
  </tr>
  
  <tr><td width=640>
@@ -24,7 +24,7 @@
 <IMG SRC="img/b_ornament_68_0M.png" width=800></div> 
  
  
- <a name=#◆><h2 align="center"><b> 海外“风景点”中共国安国保610警察三退 </b></h2>
+ <a name=#2><h2 align="center"><b> 海外“风景点”中共国安国保610警察三退 </b></h2>
  <div align="center">
 <IMG SRC="img/paris-ss.jpg" width=680></div>
   <div align="center"> 大陆游客在世界各地的著名旅游景点可以听闻法轮功真相。图为法国埃菲尔铁塔（大纪元） </div>
