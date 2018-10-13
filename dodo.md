@@ -45,7 +45,7 @@
  
   <a name=5><h2 align="center"><b> 全球各地声援三亿中国人退出中共 (组图) </b></h2>
  <div align="center">
-<IMG SRC="img/b32cef81a72.jpg" width=680></div>
+<IMG SRC="img/b32cef81a72.png" width=680></div>
   <div align="center"> 全球各地声援三亿人退出中共党团队。（明慧网／大纪元合成） </div>
   </p>
  【大纪元2018年04月03日讯】自2004年11月19日大纪元发表系列社论《九评共产党》以来，中国人退出中共党、团、队组织的“三退”运动波澜壮阔。迄今为止，在大纪元退党网站上声明“三退”的人数已突破三亿。 </p>
@@ -133,7 +133,7 @@
   </p>
   
   <div align="center">
-<IMG SRC="img/3yi_06-ss-.jpg" width=680></div>
+<IMG SRC="img/3yi_06-ss.jpg" width=680></div>
   <div align="center">  2018年3月18日下午2时，香港法轮功学员在香港市中心举行游行活动，庆祝并声援近三亿人退出中共党、团、队组织，吸引许多香港市民和大陆游客驻足观看。（大纪元） </div>
   </p>
   
