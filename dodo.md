@@ -32,13 +32,205 @@
   <td width=240><a href=#4>大紀元新聞</a></td>
  </tr>
  
- 
+ <tr><td width=640>
+ <a href=#5>全球各地声援三亿中国人退出中共 (组图)</a></td>
+  <td width=240><a href=#5>大紀元新聞</a></td>
+ </tr>
 
  </table>
   <a href=#list><h4 align="right">回目錄</h4></a>
  <div align="center">
 <IMG SRC="img/b_ornament_68_0M.png" width=800></div> 
  
+ 
+  <a name=5><h2 align="center"><b> 全球各地声援三亿中国人退出中共 (组图) </b></h2>
+ <div align="center">
+<IMG SRC="img/b32cef81a72.jpg" width=680></div>
+  <div align="center"> 全球各地声援三亿人退出中共党团队。（明慧网／大纪元合成） </div>
+  </p>
+ 【大纪元2018年04月03日讯】自2004年11月19日大纪元发表系列社论《九评共产党》以来，中国人退出中共党、团、队组织的“三退”运动波澜壮阔。迄今为止，在大纪元退党网站上声明“三退”的人数已突破三亿。 </p>
+ 
+ 近期，包括美国、加拿大、欧洲、澳洲、香港、马来西亚等多地的民众、法轮功学员以及退党服务中心纷纷举行盛大游行集会等活动，庆祝并声援三亿人抛弃中共。
+ </p>
+<b>纽约</b>
+ </p>
+2018年3月11日，近千名法轮功学员来到纽约第三大华人社区布碌伦第八大道举行盛大游行，传递“法轮大法好”、“天要灭中共 三退保平安”的天机。 </p>
+  <div align="center">
+<IMG SRC="img/yi_01-ss.jpg" width=680></div>
+  <div align="center"> 3月11日，法轮功学员在纽约布碌伦举行盛大游行。（明慧网） </div>
+  </p>
+ 
+  <div align="center">
+<IMG SRC="img/3-yi_09-ss.jpg" width=680></div>
+  <div align="center"> 3月11日，法轮功学员在纽约布碌伦举行盛大游行。（明慧网） </div>
+  </p>
+ 
+  <div align="center">
+<IMG SRC="img/brooklyn-3.jpg" width=680></div>
+  <div align="center"> 3月11日，法轮功学员在纽约布碌伦举行盛大游行。（明慧网） </div>
+  </p>
+ 
+ <div align="center">
+<IMG SRC="img/brooklyn-3-yi_11-ss.jpg" width=680></div>
+  <div align="center"> 3月11日，法轮功学员在纽约布碌伦举行盛大游行。（明慧网） </div>
+  </p>
+ 
+  <div align="center">
+<IMG SRC="img/3-yi_07.jpg" width=680></div>
+  <div align="center"> 3月11日，法轮功学员在纽约布碌伦举行盛大游行。（明慧网） </div>
+  </p>
+<b>多伦多</b>
+  </p>
+2018年3月10日，部分多伦多法轮功学员和民众在市中心的克拉伦斯公园（Clarence Park）集合，举行“声援近三亿人退出党团队”为主题的大游行。  </p>
+ 
+  <div align="center">
+<IMG SRC="img/3yi_03-ss.jpg" width=680></div>
+  <div align="center"> 3月10日，部分多伦多法轮功学员和民众举行“声援近三亿人退出党团队”为主题的大游行。（明慧网） </div>
+  </p>
+  <div align="center">
+<IMG SRC="img/3yi_07-ss.jpg" width=680></div>
+  <div align="center"> 3月10日，部分多伦多法轮功学员和民众举行“声援近三亿人退出党团队”为主题的大游行。（明慧网） </div>
+  </p>
+  
+  <div align="center">
+<IMG SRC="img/3yi_05-ss.jpg" width=680></div>
+  <div align="center"> 3月10日，部分多伦多法轮功学员和民众举行“声援近三亿人退出党团队”为主题的大游行。（明慧网） </div>
+  </p>
+  <b>澳门</b>
+  </p>
+2018年3月11日下午，澳门法轮功学员在市中心步行街举行集会，声援三亿中国人认清中共的邪恶本质，声明“三退”。</p>
+  
+  <div align="center">
+<IMG SRC="img/macau-03.jpg" width=680></div>
+  <div align="center">  大陆游客拍摄法轮功真相展板。（明慧网） </div>
+  </p>
+  <div align="center">
+<IMG SRC="img/macau-01.jpg" width=680></div>
+  <div align="center">  大陆游客拍摄法轮功真相展板。（明慧网） </div>
+  </p>
+  
+   <div align="center">
+<IMG SRC="img/macau-05.jpg" width=680></div>
+  <div align="center">  大陆游客拍摄法轮功真相展板。（明慧网） </div>
+  </p>
+  <b>香港</b>
+  </p>
+2018年3月18日，香港法轮功学员及一些市民在香港市中心举行盛大集会及游行活动，庆祝并声援近三亿人退出中共党、团、队组织，呼吁法办打压法轮功的元凶江泽民、结束迫害。</p>
+  
+   <div align="center">
+<IMG SRC="img/support-3yi_09.jpg" width=680></div>
+  <div align="center">  2018年3月18日下午2时，香港法轮功学员在香港市中心举行游行活动，庆祝并声援近三亿人退出中共党、团、队组织，吸引许多香港市民和大陆游客驻足观看。（大纪元） </div>
+  </p>
+  
+  <div align="center">
+<IMG SRC="img/support-3yi_13.jpg" width=680></div>
+  <div align="center">  2018年3月18日下午2时，香港法轮功学员在香港市中心举行游行活动，庆祝并声援近三亿人退出中共党、团、队组织，吸引许多香港市民和大陆游客驻足观看。（大纪元） </div>
+  </p>
+  
+   <div align="center">
+<IMG SRC="img/3yi_10-.jpg" width=680></div>
+  <div align="center">  2018年3月18日下午2时，香港法轮功学员在香港市中心举行游行活动，庆祝并声援近三亿人退出中共党、团、队组织，吸引许多香港市民和大陆游客驻足观看。（大纪元） </div>
+  </p>
+  
+  <div align="center">
+<IMG SRC="img/3yi_06-ss-.jpg" width=680></div>
+  <div align="center">  2018年3月18日下午2时，香港法轮功学员在香港市中心举行游行活动，庆祝并声援近三亿人退出中共党、团、队组织，吸引许多香港市民和大陆游客驻足观看。（大纪元） </div>
+  </p>
+  
+  <b>马来西亚</b>
+   </p>
+马来西亚退党服务中心于2018年3月18日，来到吉隆坡首都金三角的繁华地带，声援三亿退出中共党、团、队组织的三退勇士们，祝贺他们拥有美好的未来，吸引了许多民众的关注。 </p>
+  
+   <div align="center">
+<IMG SRC="img/600x400-1.jpg" width=680></div>
+  <div align="center"> 马来西亚退党中心于3月18日，在吉隆坡首都金三角的繁华地带举行声援三亿人三退的活动。 （朱利达／大纪元） </div>
+  </p>
+  
+   <div align="center">
+<IMG SRC="img/iTat-600.jpg" width=680></div>
+  <div align="center"> 马来西亚退党中心发言人现场宣读文告。 （朱利达／大纪元） </div>
+  </p>
+  <b>英国</b>
+   </p>
+2018年3月24日，英国法轮功学员在伦敦特拉法加广场（鸽子广场）开展讲真相活动，庆祝三亿中国人退出中共党、团、队组织的精神觉醒，向来自世界各地的游客传播法轮大法的美好，揭露中共的邪恶本质，并呼吁国际社会携手解体中共、制止迫害，希望更多中国人明白真相。 </p>
+  <div align="center">
+<IMG SRC="img/britain3yi_04.jpg" width=680></div>
+  <div align="center"> 3月24日，英国法轮功学员庆祝三亿中国人三退，吸引民众驻足观看、了解真相并签名反迫害。（明慧网） </div>
+  </p>
+  
+  <div align="center">
+<IMG SRC="img/celebrate.jpg" width=680></div>
+  <div align="center"> 3月24日，英国法轮功学员庆祝三亿中国人三退，吸引民众驻足观看、了解真相并签名反迫害。（明慧网） </div>
+  </p>
+  
+   <div align="center">
+<IMG SRC="img/celebrate-3yi_11-ss.jpg" width=680></div>
+  <div align="center"> 3月24日，英国法轮功学员庆祝三亿中国人三退，吸引民众驻足观看、了解真相并签名反迫害。（明慧网） </div>
+  </p>
+  
+ <b> 费城</b>
+   </p>
+2018年3月24日，美国大费城地区部分法轮功学员在中国城举办集会，庆贺三亿中国人退出中共的党团队组织，重获心灵与生命的自由。 </p>
+  <div align="center">
+<IMG SRC="img/philly-celebrate-3yi_01.jpg" width=680></div>
+  <div align="center"> 2018年3月24日，大费城地区部分法轮功学员在费城中国城举办集会，庆贺三亿中国人退出中共的党团队组织，并向路人介绍法轮功的美好。（明慧网）</div>
+  </p>
+ <div align="center">
+<IMG SRC="img/celebrate-3yi_03.jpg" width=680></div>
+  <div align="center"> 3月24日，当地居民与外地游客在制止活摘的请愿书上签字。（明慧网）</div>
+  </p>
+<b> 澳洲墨尔本</b>
+ </p>
+3月25日，墨尔本部分法轮功学员在市中心州立图书馆前举办集会，声援三亿人退出中共党、团、队组织。澳洲政府议员、非政府组织、华人社区的代表在集会上发言，庆祝三亿中国人摆脱共产主义的枷锁和烙印，重获新生。</p>
+  <div align="center">
+<IMG SRC="img/7-600x400.jpg" width=680></div>
+  <div align="center"> 墨尔本法轮功学员举行声援三退的集会吸引了很多路人驻足聆听、拍照及索取资料。（托尼／大纪元）</div>
+  </p>
+ <b>洛杉矶</b>
+  </p>
+3月25日（周日），洛杉矶部分法轮功学员在圣盖博繁忙的山谷大道（Valley Blvd.）及戴尔玛大道（Del Mar Ave.）上举起真相横幅，庆祝三亿人退出中共一切组织，并呼吁至今仍被谎言毒害的中国人，跟上“三退”浪潮，别当中共的殉葬品。 </p>
+ <div align="center">
+<IMG SRC="img/2-5-1-600.jpg" width=680></div>
+  <div align="center"> 3月25日，洛杉矶部分法轮功学员在圣盖博市举办“真相长城”活动，庆祝三亿中国人退出中共一切组织。（姜琳达／大纪元）</div>
+  </p>
+ 
+  <div align="center">
+<IMG SRC="img/3-1-1-600.jpg" width=680></div>
+  <div align="center"> 3月25日，山谷大道及戴尔玛大道两旁的真相横幅。（姜琳达／大纪元）</div>
+  </p>
+ 
+  <div align="center">
+<IMG SRC="img/1-10-1-600.jpg" width=680></div>
+  <div align="center"> 3月25日，繁忙的山谷大道及戴尔玛大道两旁的真相横幅。（姜琳达／大纪元）</div>
+  </p>
+ 
+ 旧金山
+  </p>
+3月29日，旧金山湾区部分法轮功学员、正义人士在中领馆前集会，庆祝三亿人退出中共党、团、队，在向前往中领馆办事的民众、中领馆各级官员和工作人员传递这一信息的同时，法轮功学员正告中共官员停止迫害法轮功，给自己、自己的未来留一条后路。 </p>
+  <div align="center">
+<IMG SRC="img/tu1-IMG_3089.jpg" width=680></div>
+  <div align="center"> 3月29日，部分湾区法轮功学员、正义人士在中领馆前集会，庆祝三亿人退出中共党、团、队。（周凤临／大纪元）</div>
+  </p>
+ 蒙特利尔
+ </p>
+3月31日星期六，加拿大魁北克省的部分法轮功学员和民众在蒙特利尔举行集会和游行，声援三亿人在大纪元退党网站上声明退出中共的党、团、队组织，并呼吁更多的中国民众觉醒，加入三退大潮，活动受到在场民众的热烈响应和支持。#</p>
+ 
+  <div align="center">
+<IMG SRC="img/ET_Montreal_002.jpg" width=680></div>
+  <div align="center"> 3月31日，蒙特利尔举行声援三亿人退出中共党、团、队组织的集会和游行，受到民众响应和支持。（Nathalie Dieul / 大纪元）</div>
+  </p>
+ 
+  <div align="center">
+<IMG SRC="img/Montreal_00.jpg" width=680></div>
+  <div align="center"> 3月31日，蒙特利尔举行声援三亿人退出中共党、团、队组织的集会和游行，受到民众响应和支持。（Nathalie Dieul / 大纪元）</div>
+  </p>
+ 
+ 资料来源：明慧网、大纪元
+ 
+ 
+ <a href=#list><h4 align="right">回目錄</h4></a>
+ <div align="center">
+<IMG SRC="img/b_ornament_68_0M.png" width=800></div> 
  <a name=2-2><h2 align="center"><b> 中共政法委系统官员在巴黎退党 </b></h2>
  <div align="center">
 <IMG SRC="img/2paris_03.jpg" width=680></div>
