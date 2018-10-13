@@ -3,7 +3,7 @@
 新唐人 新闻 评论 视频 hhttp://220.141.123.94</div>
 
 <hr>
-<h1><b><a href="https://git.io/zbdodo">热门 三退大潮 觉醒之路</a></b></h1>
+<h1><b><a href="https://git.io/zb">热门 三退大潮 觉醒之路</a></b></h1>
 
 <h1><b><a href="https://git.io/3f">手机上好看的电子书（ePub版）</a></b></h1>
 
